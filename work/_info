@@ -1,0 +1,788 @@
+m255
+K4
+z2
+3
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/hp/Documents/Matrix-Multiplier-Custom-Processor
+Eadder
+Z1 w1570780009
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8adder.vhd
+Z6 Fadder.vhd
+l0
+L5
+VJ5;=?>icAH_GA6ACU_[gE1
+!s100 SU6B3F^4PNO]]d4157haV3
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1570988086
+!i10b 1
+Z9 !s108 1570988085.000000
+Z10 !s90 adder.vhd|matA_8bit.vhd|matB_8bit.vhd|matrix_controller.vhd|matrix_datapath.vhd|matrix_tb.vhd|matrix_topmodule.vhd|multiplier.vhd|mux_four_two.vhd|plus_one.vhd|reg_8bit.vhd|result_16bit.vhd|smaller_four.vhd|smaller_three.vhd|
+Z11 !s107 smaller_three.vhd|smaller_four.vhd|result_16bit.vhd|reg_8bit.vhd|plus_one.vhd|mux_four_two.vhd|multiplier.vhd|matrix_topmodule.vhd|matrix_tb.vhd|matrix_datapath.vhd|matrix_controller.vhd|matB_8bit.vhd|matA_8bit.vhd|adder.vhd|
+!i13 1
+Z12 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+DEx4 work 5 adder 0 22 J5;=?>icAH_GA6ACU_[gE1
+l14
+L3
+V@HRh^bHaE1S<@XOD4:l5X0
+!s100 0WnhSzI8lOhizAJ65nRJJ0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Earray_16bit
+Z3 w1570784881
+R2
+R3
+R4
+R0
+Z14 8array_16bit.vhd
+Z15 Farray_16bit.vhd
+l0
+L5
+VAbDXE8eSEL;;_j?gTJBiG1
+!s100 R1GW_^9SoD==UiZSZF8571
+R7
+32
+Z16 !s110 1570784883
+!i10b 1
+Z17 !s108 1570784883.000000
+Z18 !s90 array_16bit.vhd|
+Z19 !s107 array_16bit.vhd|
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 11 array_16bit 0 22 AbDXE8eSEL;;_j?gTJBiG1
+l17
+L3
+VB:`4ajFURWVn3Am281JM<2
+!s100 UjNKeRHX:kKh1ncfaZSXK1
+R7
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i13 1
+R12
+Earray_8bit
+Z20 w1570784268
+R2
+R3
+R4
+R0
+Z21 8array_8bit.vhd
+Z22 Farray_8bit.vhd
+l0
+L5
+VL21c5dbi`7Ql1anfJGdAD1
+!s100 @hE=[^O3A5GB`L^VNERWL2
+R7
+32
+Z23 !s110 1570784270
+!i10b 1
+Z24 !s108 1570784270.000000
+Z25 !s90 array_8bit.vhd|
+Z26 !s107 array_8bit.vhd|
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 10 array_8bit 0 22 L21c5dbi`7Ql1anfJGdAD1
+l17
+L3
+Vi11PI;6Ue2ekgMb<=J8]_1
+!s100 W>0H0JN`WeJWO^0DUY;6=2
+R7
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i13 1
+R12
+Earraya_8bit
+Z27 w1570817227
+R2
+R3
+R4
+R0
+Z28 8arrayA_8bit.vhd
+Z29 FarrayA_8bit.vhd
+l0
+L5
+Venk2B[RY9CAVA_g`=BA>Q0
+!s100 K^CH<eHYi;B<dlb4eI3`:1
+R7
+32
+Z30 !s110 1570817232
+!i10b 1
+Z31 !s108 1570817232.000000
+Z32 !s90 arrayA_8bit.vhd|
+Z33 !s107 arrayA_8bit.vhd|
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 11 arraya_8bit 0 22 enk2B[RY9CAVA_g`=BA>Q0
+l31
+L12
+V8lSI0E^H`3=RmTi]kIE<o3
+!s100 TOdU@:JN:`zoE3CYT7cLF3
+R7
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i13 1
+R12
+Earrayb_8bit
+Z34 w1570817383
+R2
+R3
+R4
+R0
+Z35 8arrayB_8bit.vhd
+Z36 FarrayB_8bit.vhd
+l0
+L5
+VXEG@dS5=d99=:Yie=hZPi3
+!s100 L]W=ME24gXQXM;4<b@>_M2
+R7
+32
+Z37 !s110 1570817388
+!i10b 1
+Z38 !s108 1570817388.000000
+Z39 !s90 arrayB_8bit.vhd|
+Z40 !s107 arrayB_8bit.vhd|
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 11 arrayb_8bit 0 22 XEG@dS5=d99=:Yie=hZPi3
+l32
+L12
+V_<aV8YzB@4b_Q@h?fTAa>2
+!s100 dOVm7GBGz7iT=N1BYSbbR1
+R7
+32
+R37
+!i10b 1
+R38
+R39
+R40
+!i13 1
+R12
+Ehard_block
+Z41 w1570988214
+Z42 DPx4 ieee 16 vital_primitives 0 22 G>kiXP8Q9dRClKfK1Zn7j1
+Z43 DPx10 cycloneive 20 cycloneive_atom_pack 0 22 g8;l:a_bzlE?3R3d7zk3Z0
+Z44 DPx4 ieee 12 vital_timing 0 22 J>EBealN09f8GzldA[z2>3
+R3
+R4
+Z45 DPx10 cycloneive 21 cycloneive_components 0 22 Yj^f[Ven<H;0LiK:6PWEg0
+R0
+Z46 8./quartus/matrix_topmodule/simulation/modelsim/matrix_topmodule.vho
+Z47 F./quartus/matrix_topmodule/simulation/modelsim/matrix_topmodule.vho
+l0
+L35
+VF2XQElaI`gXj<O]Y^RnRF0
+!s100 >mXi5[`cD`bFC`UBKA<om3
+R7
+32
+Z48 !s110 1570988240
+!i10b 1
+Z49 !s108 1570988240.000000
+Z50 !s90 ./quartus/matrix_topmodule/simulation/modelsim/matrix_topmodule.vho|
+Z51 !s107 ./quartus/matrix_topmodule/simulation/modelsim/matrix_topmodule.vho|
+!i13 1
+R12
+Astructure
+R42
+R43
+R44
+R3
+R4
+R45
+Z52 DEx4 work 10 hard_block 0 22 F2XQElaI`gXj<O]Y^RnRF0
+l65
+L51
+Z53 VH>T1zENXMCahKdJeR7Mkf2
+Z54 !s100 [5;Wd8QGQ>@2NGoJ1I]Y43
+R7
+32
+R48
+!i10b 1
+R49
+R50
+R51
+!i13 1
+R12
+Emata_8bit
+Z55 w157083348
+R2
+R3
+R4
+R0
+Z56 8matA_8bit.vhd
+Z57 FmatA_8bit.vhd
+l0
+L5
+VFhO^2kZ1imfm6>6BkVzDC1
+!s100 aJDbP9H@UIL;@JgiJK9I]3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 9 mata_8bit 0 22 FhO^2kZ1imfm6>6BkVzDC1
+l40
+L12
+V3O`A27a7c;Li:1`II7XmR3
+!s100 X9_iojh:Vz^EKkHIDJi@E0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Ematb_8bit
+Z58 w157083394
+R2
+R3
+R4
+R0
+Z59 8matB_8bit.vhd
+Z60 FmatB_8bit.vhd
+l0
+L5
+V?[LZY8500R1N<dQeQ?;nA3
+!s100 TjacLVkNHMT60zAhcVkL20
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 9 matb_8bit 0 22 ?[LZY8500R1N<dQeQ?;nA3
+l41
+L12
+VjV=h:5<n=lX0=HMgYDU^Y1
+!s100 edI2NP0SmPBZkhh0^3W^3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Ematrix_controller
+Z61 w1570830780
+R2
+R3
+R4
+R0
+Z62 8matrix_controller.vhd
+Z63 Fmatrix_controller.vhd
+l0
+L5
+VZaGDA4CJ9U3A6Q]R]PhUZ3
+!s100 <Xhz9_<OD7P=N@lgm5feg1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 17 matrix_controller 0 22 ZaGDA4CJ9U3A6Q]R]PhUZ3
+l15
+L11
+VkfKbUlW7;gGMZEN@5`V[G1
+!s100 T<]M_jXj;1ld>TBKjP`k[1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Ematrix_datapath
+Z64 w1570987474
+R2
+R3
+R4
+R0
+Z65 8matrix_datapath.vhd
+Z66 Fmatrix_datapath.vhd
+l0
+L5
+Vj[QW;]:C6>IeoQQQ>m`[:0
+!s100 b[ELKn8bAG[Bn>PLoik>n2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Astruct
+R2
+R3
+R4
+DEx4 work 15 matrix_datapath 0 22 j[QW;]:C6>IeoQQQ>m`[:0
+l95
+L17
+V^HfRjX0fNTVK7>Rz;n`F63
+!s100 oHNOSFzmn=]Y82fkeP7R]2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Ematrix_tb
+Z67 w1570987642
+R2
+R3
+R4
+R0
+Z68 8matrix_tb.vhd
+Z69 Fmatrix_tb.vhd
+l0
+L5
+VT7Ioln^;HTeEbR5PMazNR1
+!s100 KBV4D5LEf4lQ3k2?3GOY70
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Abehav
+R2
+R3
+R4
+DEx4 work 9 matrix_tb 0 22 T7Ioln^;HTeEbR5PMazNR1
+l22
+L8
+V:b^ek_oiH[jgd>ae;lM`^0
+!s100 Vn4TeM=]UER@nR?E_@2DN3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Ematrix_topmodule
+R41
+R43
+R45
+R42
+Z70 DPx6 altera 11 dffeas_pack 0 22 :S1C`o89Vbe5bV6`:6CaB3
+R44
+R3
+R4
+Z71 DPx6 altera 28 altera_primitives_components 0 22 z?[99Tn<@QGNik3V1c6ah1
+R0
+R46
+R47
+l0
+L80
+VM;n=<Kk4A^i:BZE3Yz]Oh0
+!s100 4G>`dH9D_`l8C=SB6JO5b1
+R7
+32
+R48
+!i10b 1
+R49
+R50
+R51
+!i13 1
+R12
+Astructure
+R43
+R45
+R42
+R70
+R44
+R3
+R4
+R71
+Z72 DEx4 work 16 matrix_topmodule 0 22 M;n=<Kk4A^i:BZE3Yz]Oh0
+l887
+L129
+VmYLc0VdTXGKGe<WRif7<k2
+!s100 D;=^N^2fKi4<FnHF[Negk1
+R7
+32
+R48
+!i10b 1
+R49
+R50
+R51
+!i13 1
+R12
+Astruct
+R2
+R3
+R4
+DEx4 work 16 matrix_topmodule 0 22 jQREmGFC<439Qd0[BJkXF3
+l35
+L11
+V;KJHUTNOIB:]oQ=fH@Xfh2
+!s100 @85A^:og8Ie?kckmY=YQW1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Fmatrix_topmodule.vhd
+w1570988083
+8matrix_topmodule.vhd
+Emultiplier
+Z73 w1570779843
+R2
+R3
+R4
+R0
+Z74 8multiplier.vhd
+Z75 Fmultiplier.vhd
+l0
+L5
+VLda=em4JK8<XVN6^O835J2
+!s100 =knIXgkHjb17hEQjYdUZC3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 10 multiplier 0 22 Lda=em4JK8<XVN6^O835J2
+l14
+L3
+VGf]`m;`SJDz;AgXh;BWS;2
+!s100 BzNRE<JAfA1j_P:?CnnZ80
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Emux_four_two
+Z76 w1570780105
+R2
+R3
+R4
+R0
+Z77 8mux_four_two.vhd
+Z78 Fmux_four_two.vhd
+l0
+L5
+V0;VDW4WQH]JWmW;A3dNP92
+!s100 KOHkW[R_Ag?Z:;ezz9Qa^2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 12 mux_four_two 0 22 0;VDW4WQH]JWmW;A3dNP92
+l15
+L14
+V<f9IGchK;NkeS?Lo>ZEN71
+!s100 Who1ZLmcI[??MOaS367<d3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Eplus_one
+Z79 w1570780150
+R2
+R3
+R4
+R0
+Z80 8plus_one.vhd
+Z81 Fplus_one.vhd
+l0
+L5
+V;;E_9k1]`]LRZR>MCC2O]1
+!s100 Ud5C_1bdY3<k?cI3h:K_O3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 8 plus_one 0 22 ;;E_9k1]`]LRZR>MCC2O]1
+l3
+L12
+V=bKQ;3X;Fm[JLjP9GkOD=0
+!s100 =0MMoE5IM3jH0OXEb<Y=Y0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Ereg_8bit
+Z82 w1570780738
+R2
+R3
+R4
+R0
+Z83 8reg_8bit.vhd
+Z84 Freg_8bit.vhd
+l0
+L5
+VKf8IlXA3KgJ;OYR3N4ddV0
+!s100 _jjFhOUQ>:zY>]`AjAMKh2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 8 reg_8bit 0 22 Kf8IlXA3KgJ;OYR3N4ddV0
+l12
+L11
+V<GkQAm_1iJd3:3f3z4b2H3
+!s100 bdTngQ]]B:8XPL536NNz_1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Eresult_16bit
+Z85 w1570831801
+R2
+R3
+R4
+R0
+Z86 8result_16bit.vhd
+Z87 Fresult_16bit.vhd
+l0
+L5
+VDHiM;Bkle?GmKYfYYfQ]P3
+!s100 JWg<8BB@L@`YXhBo41iSZ0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 12 result_16bit 0 22 DHiM;Bkle?GmKYfYYfQ]P3
+l17
+L3
+V>ZFTCRT`ZKB=Abi?:V1Z52
+!s100 C[TXNDMYAX27?m2Eg;XKT2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Esmaller_four
+Z88 w1570780428
+R2
+R3
+R4
+R0
+Z89 8smaller_four.vhd
+Z90 Fsmaller_four.vhd
+l0
+L5
+V:aDY2=k9SPoRc3FUQo;AT2
+!s100 ZozGgnn_0>FG3OAnBD]]73
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 12 smaller_four 0 22 :aDY2=k9SPoRc3FUQo;AT2
+l3
+L12
+V@K6V^V6cnP<;R<2TglVL73
+!s100 3UY5hLP^D4DV1jFCfj4OI0
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Esmaller_three
+Z91 w1570780433
+R2
+R3
+R4
+R0
+Z92 8smaller_three.vhd
+Z93 Fsmaller_three.vhd
+l0
+L5
+Vjgmo6M`<KONPNA6i=`mCY3
+!s100 X<Se0WhG]d;oNPR1IIcO81
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 3 smaller_three 0 22 jgmo6M`<KONPNA6i=`mCY3
+l3
+L12
+VXIPzBaXE_nZD7]W4FbJ<[3
+!s100 8`<C9LILQee?ZO^zc1KR^3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i13 1
+R12
