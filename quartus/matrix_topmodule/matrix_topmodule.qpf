@@ -1,0 +1,8 @@
+
+
+QUARTUS_VERSION = "17.0"
+DATE = "19:28:53  july 3, 2022"
+
+# Revisions
+
+PROJECT_REVISION = "matrix_topmodule"
